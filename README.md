@@ -1,5 +1,4 @@
 # Trainess Pixel
-Para executar: <br>
-Após abrir a pasta 
-npm install
-npm start 
+Para executar, após abrir a pasta: <br>
+npm install <br>
+npm start <br>
